@@ -41,3 +41,14 @@ double check ang mga checkboxes sa builk action...
 6. OK - Aug - 14 on order list boxes, show details not just number of how many orders
 7. OK - Aug - 14 inventory count like how many beers are consumed this night
 8. OK - Aug - 14 make button larger
+
+End of Day Release Notes - August 14, 2025
+
+1. Upon selecting an order, the table number is displayed first. – Pending
+2. Recommendations are displayed in the order details. – Pending
+3. Terminology in popup alerts and buttons has been standardized. – Completed (Aug 14)
+4. When editing an order, the choices of types (Food or Drinks) are displayed. – Pending
+5. The table number input is now treated as a string. – Completed (Aug 14)
+6. Order list boxes now display detailed information, not just the number of orders. – Completed (Aug 14)
+7. Inventory count reflects the number of beverages consumed during the evening. – Completed (Aug 14)
+8. Buttons have been enlarged for improved usability. – Completed (Aug 14)
